@@ -1,0 +1,9 @@
+Log file created at: 2026/06/02 10:13:30
+Running on machine: MSI
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0602 10:13:30.290693 32916 fw_encrypt_signature.cpp:46] r_file_path: ..\..\..\..\..\build\binaries\encrypt_tools\encrypt_keys\encrypt_keys_example\random.bin
+I0602 10:13:30.291692 32916 fw_encrypt_signature.cpp:75] firmware_key_path: ..\..\..\..\..\build\binaries\encrypt_tools\encrypt_keys\encrypt_keys_example\firmware.key
+I0602 10:13:30.291692 32916 fw_encrypt_signature.cpp:108] sign_key_path: ..\..\..\..\..\build\binaries\encrypt_tools\encrypt_keys\encrypt_keys_example\sign.key
+I0602 10:13:30.291692 32916 fw_encrypt_signature.cpp:109] sign_pub_key_path: ..\..\..\..\..\build\binaries\encrypt_tools\encrypt_keys\encrypt_keys_example\sign_pub.key
+I0602 10:13:30.291692 32916 fw_encrypt_signature.cpp:149] succeed LoadSignatureKeyPair
+I0602 10:13:30.291692 32916 fw_encrypt_signature.cpp:155] firmware_path: .\build\ble_app_uart_inmp441_wm8960_fw.bin

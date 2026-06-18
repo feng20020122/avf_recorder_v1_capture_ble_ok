@@ -1,0 +1,9 @@
+Log file created at: 2026/06/18 10:55:34
+Running on machine: MSI
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0618 10:55:34.982515 27568 fw_encrypt_signature.cpp:46] r_file_path: ..\..\GR551x_SDK_B6815\build\binaries\encrypt_tools\encrypt_keys\encrypt_keys_example\random.bin
+I0618 10:55:34.984510 27568 fw_encrypt_signature.cpp:75] firmware_key_path: ..\..\GR551x_SDK_B6815\build\binaries\encrypt_tools\encrypt_keys\encrypt_keys_example\firmware.key
+I0618 10:55:34.984510 27568 fw_encrypt_signature.cpp:108] sign_key_path: ..\..\GR551x_SDK_B6815\build\binaries\encrypt_tools\encrypt_keys\encrypt_keys_example\sign.key
+I0618 10:55:34.984510 27568 fw_encrypt_signature.cpp:109] sign_pub_key_path: ..\..\GR551x_SDK_B6815\build\binaries\encrypt_tools\encrypt_keys\encrypt_keys_example\sign_pub.key
+I0618 10:55:34.984510 27568 fw_encrypt_signature.cpp:149] succeed LoadSignatureKeyPair
+I0618 10:55:34.984510 27568 fw_encrypt_signature.cpp:155] firmware_path: .\build\avf_recorder_fw.bin
